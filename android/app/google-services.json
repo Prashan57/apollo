@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "650501637215",
+    "project_id": "apollo-da8ae",
+    "storage_bucket": "apollo-da8ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650501637215:android:7cbdf257a51920b8b187ea",
+        "android_client_info": {
+          "package_name": "com.prashanproject.apollo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "650501637215-m3kns4qal2bpalmogk3j236c4d5qvfi3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoYb4vSJ_fFzVocp9Jc2MUgzQV0T0D758"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "650501637215-m3kns4qal2bpalmogk3j236c4d5qvfi3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
